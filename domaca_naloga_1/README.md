@@ -28,3 +28,5 @@
 
 ###[Uèni list - Racionalna funkcija - 1.pdf](https://www.sc-nm.si/sss/file/open/584_3135100d7326/U%C4%8Dni%20list%20-%20Racionalna%20funkcija-1.pdf)
 - 7
+
+...
