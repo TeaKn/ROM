@@ -3,7 +3,7 @@
 - 28
 
 ### [Uèni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
-- 11
+- 12
 
 ###[Uèni list - Sistemi linearnih enaèb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
 - 7
