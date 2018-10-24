@@ -1,32 +1,32 @@
 # Rezervirala sem si naslednje naloge
-### [UËni list - Kvadratna funkcija.pdf](https://www.sc-nm.si/sss/file/open/763_ef3adea10a46/U%C4%8Dni%20list%20-%20Kvadratna%20funkcija.pdf)
+### [Uƒçni list - Kvadratna funkcija.pdf](https://www.sc-nm.si/sss/file/open/763_ef3adea10a46/U%C4%8Dni%20list%20-%20Kvadratna%20funkcija.pdf)
 - 28
 
-### [UËni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
+### [Uƒçni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - 12
 
-###[UËni list - Sistemi linearnih enaËb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
+### [Uƒçni list - Sistemi linearnih ena√®b.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
 - 7
 
-###[UËni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
+### [Uƒçni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - 11
 
-###[UËni list - Kombinatorika in verjetnost.pdf](https://www.sc-nm.si/sss/si/file/download/787_ba06a1c33ae9/U%C4%8Dni%20list%20-%20Kombinatorika%20in%20verjetnost.pdf)
+### [Uƒçni list - Kombinatorika in verjetnost.pdf](https://www.sc-nm.si/sss/si/file/download/787_ba06a1c33ae9/U%C4%8Dni%20list%20-%20Kombinatorika%20in%20verjetnost.pdf)
 - 5
 
-###[UËni list - Polinomi - 1.pdf](https://www.sc-nm.si/sss/file/open/599_bb49bdbafe02/U%C4%8Dni%20list%20-%20Polinomi%20-%201.pdf)
+### [Uƒçni list - Polinomi - 1.pdf](https://www.sc-nm.si/sss/file/open/599_bb49bdbafe02/U%C4%8Dni%20list%20-%20Polinomi%20-%201.pdf)
 - 8
 
-###[UËni list - Polinomi - 2.pdf](https://www.sc-nm.si/sss/si/file/download/788_0fdf4f486b6d/U%C4%8Dni%20list%20-%20Polinomi%20-%202.pdf)
+### [Uƒçni list - Polinomi - 2.pdf](https://www.sc-nm.si/sss/si/file/download/788_0fdf4f486b6d/U%C4%8Dni%20list%20-%20Polinomi%20-%202.pdf)
 - 13
 
-###[UËni list - Logaritem - 1.pdf](https://www.sc-nm.si/sss/file/open/620_6c5a3dc26891/U%C4%8Dni%20list%20-%20Logaritem%20-%201.pdf)
+### [Uƒçni list - Logaritem - 1.pdf](https://www.sc-nm.si/sss/file/open/620_6c5a3dc26891/U%C4%8Dni%20list%20-%20Logaritem%20-%201.pdf)
 - 4
 
-###[UËni list - Logaritem - 2.pdf](https://www.sc-nm.si/sss/file/open/720_d3042caaa069/U%C4%8Dni%20list%20-%20Logaritem%20-%202.pdf)
+### [Uƒçni list - Logaritem - 2.pdf](https://www.sc-nm.si/sss/file/open/720_d3042caaa069/U%C4%8Dni%20list%20-%20Logaritem%20-%202.pdf)
 - 10
 
-###[UËni list - Racionalna funkcija - 1.pdf](https://www.sc-nm.si/sss/file/open/584_3135100d7326/U%C4%8Dni%20list%20-%20Racionalna%20funkcija-1.pdf)
+### [Uƒçni list - Racionalna funkcija - 1.pdf](https://www.sc-nm.si/sss/file/open/584_3135100d7326/U%C4%8Dni%20list%20-%20Racionalna%20funkcija-1.pdf)
 - 7
 
 ...
